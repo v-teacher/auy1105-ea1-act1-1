@@ -6,11 +6,11 @@
 
 ### 1. Realizar un Fork del Repositorio
 
-1. Accede al repositorio de GitHub proporcionado: [AUY1105-Infraestructura-como-codigo-II](https://github.com/Fundacion-Instituto-Profesional-Duoc-UC/AUY1105-Infraestructura-como-codigo-II).  
-2. Haz clic en el botón **Fork** en la parte superior derecha de la página.  
+1. Accede al repositorio de GitHub proporcionado: [auy1105-ea1-act1-1](https://github.com/v-teacher/auy1105-ea1-act1-1).
+2. Haz clic en el botón **Fork** en la parte superior derecha de la página.
 3. Selecciona tu cuenta de GitHub como destino del fork.
 
-Para más detalles sobre cómo hacer un fork, consulta la guía oficial de GitHub:  
+Para más detalles sobre cómo hacer un fork, consulta la guía oficial de GitHub:
 [GitHub Docs: Fork a Repo](https://docs.github.com/en/get-started/quickstart/fork-a-repo).
 
 ### 2. Clonar el Repositorio Forkeado en Tu Máquina Local
@@ -18,14 +18,14 @@ Para más detalles sobre cómo hacer un fork, consulta la guía oficial de GitHu
 Ejecuta el siguiente comando en tu terminal para clonar tu fork:
 
 ```bash
-git clone https://github.com/tu-usuario/AUY1105-Infraestructura-como-codigo-II.git
+git clone https://github.com/tu-usuario/auy1105-ea1-act1-1.git
 ```
 
 ### 3. Revisar el Código y Realizar un Cambio Pequeño
 
 - Navega al directorio del proyecto:
 ```bash
-cd AUY1105-Infraestructura-como-codigo-II
+cd auy1105-ea1-act1-1
 ```
 - Abre el proyecto en tu editor de código preferido (por ejemplo, VS Code):
 ```bash
